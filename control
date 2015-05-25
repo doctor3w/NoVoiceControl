@@ -1,0 +1,10 @@
+Package: com.drewsdunne.novoicecontrol
+Name: NoVoiceControl
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Disables voice control completely
+Maintainer: drewsdunne
+Author: drewsdunne
+Section: Tweaks
+Depiction: http://repo.drewsdunne.com/depiction.php?package=com.drewsdunne.novoicecontrol
